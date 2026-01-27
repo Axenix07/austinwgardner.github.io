@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Javascript vs Typescript and WODS and flipped classes"
 # All dates must be YYYY-MM-DD format!
-date: 2026-01-0626
+date: 2026-01-26
 published: true
 labels:
   - Typescript
