@@ -1,54 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Javascript vs Typescript and WODS and flipped classes"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2026-01-0626
 published: true
 labels:
-  - Engineering
+  - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+As someone who is experienced with Javascript, Typescript feels very easy to learn and work with, which makes sense because it is basically the same language.  Typescript does feel more restrictive and removes some of the freedom that can come with working in javascript.  This is both good and bad because it can be more frustrating to work with, but it does enforce good coding practices and helps to catch bugs early when they are still very easy to fix.  It also helps with enforcing better cybersecurity practices.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+The practice WODs are kind of helpful if you haven't worked in typescript before, but if you have the only real blocker on the WODs is the badly written instructions.  The instructions being written the way they are really encourages AI usage because it can be difficult to track down how you are supposed to handle edge cases hidden inside the instructions while trying to work quickly under a 20-40 minute time crunch.  Using an AI to read the instructions and do the work for you is a much more effective way to handle the assignment, and allows you time to fully read through the instructions and then confirm that the AI properly handled the edge cases.  This makes for really bad practice if you are actually trying to learn how to code in Typescript.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+I find the flipped class format that ICS 314 uses to be very frustrating and a much worse experience than actually being taught in class.  I generally find online classes and lectures to be ineffective and difficult to fully focus on, which is why I only take in person classes.  It can be difficult to get the content from the material on the website, and it is very annoying to not be able to ask questions as the lesson goes on.  It has also already led to some confusion regarding due dates because the dates are listed differently on Lamaku vs the course website.  In general in person classes are just a better learning experience overall.
