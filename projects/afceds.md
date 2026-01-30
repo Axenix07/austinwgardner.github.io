@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/afceds/AFCEDS.jpg
 title: "AFCEDS"
-date: 2026
+date: 2023
 published: true
 labels:
   - Website
