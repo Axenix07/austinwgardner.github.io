@@ -19,4 +19,4 @@ The Bespin Websit is a site I developed to advertise my unit in the Air Force an
 
 <hr>
 
-Source: <a href="https://bepsin.af.mil"><i class="large github icon "></i>Team BESPIN Website</a>
+Source: <a href="https://bespin.af.mil/index.html"><i class="large github icon "></i>Team BESPIN Website</a>

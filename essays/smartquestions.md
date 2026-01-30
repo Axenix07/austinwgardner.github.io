@@ -12,8 +12,8 @@ labels:
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+In the world of software engineering, your code is only half of your contribution; the other half is how you navigate the collective knowledge of the community. Eric S. Raymond’s seminal essay, How To Ask Questions The Smart Way, argues that technical communities are not just help desks—they are meritocracies of hackers who value time and intellectual effort.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+Asking a "smart" question isn't about proving you're a genius; it’s about demonstrating that you’ve done the legwork, respected the experts' time, and provided enough context to make a solution possible.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+One example of a smart question is https://stackoverflow.com/questions/22540449/how-can-i-rotate-a-matplotlib-plot-through-90-degrees.  The user asks how to rotate a plot in matplotlib
