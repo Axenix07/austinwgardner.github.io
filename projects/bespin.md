@@ -12,7 +12,7 @@ labels:
 summary: "A website that I developed for my unit in the Air Force."
 ---
 
-<img class="img-fluid" src="img/bespin/BESPIN.png">
+<img src="img/bespin/BESPIN.png">
 
 The Bespin Websit is a site I developed to advertise my unit in the Air Force and showcase the work the unit does.
 
