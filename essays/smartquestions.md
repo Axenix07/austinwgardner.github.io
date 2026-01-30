@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/smart-questions/stackoverflow-1.png">
+<img  src="../img/smart-questions/stackoverflow-1.png">
 
 In the world of software engineering, your code is only half of your contribution; the other half is how you navigate the collective knowledge of the community. Eric S. Raymond’s seminal essay, How To Ask Questions The Smart Way, argues that technical communities are not just help desks—they are meritocracies of hackers who value time and intellectual effort.
 
