@@ -16,7 +16,7 @@ In the world of software engineering, your code is only half of your contributio
 
 Asking a "smart" question isn't about proving you're a genius; it’s about demonstrating that you’ve done the legwork, respected the experts' time, and provided enough context to make a solution possible.
 
-One example of a smart question is https://stackoverflow.com/questions/22540449/how-can-i-rotate-a-matplotlib-plot-through-90-degrees.  The user asks how to rotate a plot in matplotlib and gives specific details and information needed to help answer the question.  Giving this information paid off because answers to their question came pretty quickly and were able to give the user solutions to their issue.  The community rewarded the developer's preparation with a high-quality, permanent resource that has since helped thousands of other users.
+One example of a smart question is [How to Rotate a matplotlib plot](https://stackoverflow.com/questions/22540449/how-can-i-rotate-a-matplotlib-plot-through-90-degrees).  The user asks how to rotate a plot in matplotlib and gives specific details and information needed to help answer the question.  Giving this information paid off because answers to their question came pretty quickly and were able to give the user solutions to their issue.  The community rewarded the developer's preparation with a high-quality, permanent resource that has since helped thousands of other users.
 
 An example of a question that fails the Raymond test is:
 A user posts a blurry screenshot of their laptop screen showing 200 lines of code. The text reads:
