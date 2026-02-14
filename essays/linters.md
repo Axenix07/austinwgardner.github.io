@@ -54,6 +54,4 @@ At the end of the day, coding standards are a gift to your future self and your 
 
 ***
 
-**AI Disclosure:** *This essay was written with the assistance of Gemini, an AI collaborator. I provided the central thesis regarding coding standards as a learning tool and the specific prompts regarding ESLint experiences, while the AI helped synthesize these ideas into this structured format.*
-
-**Would you like me to generate a strict ESLint configuration file that enforces some of the high-level quality standards discussed here?**
+**AI Disclosure:** *This essay was written with the assistance of Gemini*
