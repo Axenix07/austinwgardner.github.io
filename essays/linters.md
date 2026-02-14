@@ -1,4 +1,17 @@
-# coding-standards-beyond-tabs.md
+---
+layout: essay
+type: essay
+title: "# Coding Standards"
+# All dates must be YYYY-MM-DD format!
+date: 2026-02-12
+published: true
+labels:
+  - Software Engineering
+  - Learning
+  - Linter
+---
+
+
 
 ## The Invisible Guardrails: Why Coding Standards Are Your Best Mentor
 
